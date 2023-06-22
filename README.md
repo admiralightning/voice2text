@@ -1,4 +1,4 @@
-# 🍱🔗 BentoChain - LangChain Deployment on BentoML 
+# 🍱🔗 voice2text - LangChain Deployment on BentoML 
 
 Reference: Medium [post](https://medium.com/@ahmedbesbes/deploy-a-voice-based-chatbot-with-bentoml-langchain-and-gradio-7f25af3e45df)
 
