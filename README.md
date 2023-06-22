@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 #  voice2text - LangChain Deployment on BentoML 
 =======
-# 🍱🔗 voice2text - LangChain Deployment on BentoML 
+#  voice2text - LangChain Deployment on BentoML 
 >>>>>>> b347c02ac7045cc07090c82f8aef7d1da6a6c3be
 
 
@@ -9,9 +9,9 @@
 
 
 <<<<<<< HEAD
-Bvoice2text is a 🦜 [LangChain](https://github.com/hwchase17/langchain) deployment example using 🍱 [BentoML](https://github.com/bentoml/BentoML) inspired by [langchain-gradio-template](https://github.com/hwchase17/langchain-gradio-template). This example demonstrates how to create a voice chatbot using the OpenAI API, Transformers speech models, Gradio, and BentoML. The chatbot takes input from a microphone, which is then converted into text using a speech recognition model. 
+voice2text is a  [LangChain](https://github.com/hwchase17/langchain) deployment example using  [BentoML](https://github.com/bentoml/BentoML) inspired by [langchain-gradio-template](https://github.com/hwchase17/langchain-gradio-template). This example demonstrates how to create a voice chatbot using the OpenAI API, Transformers speech models, Gradio, and BentoML. The chatbot takes input from a microphone, which is then converted into text using a speech recognition model. 
 =======
-voice2text is a 🦜️🔗 [LangChain](https://github.com/hwchase17/langchain) deployment example using 🍱 [BentoML](https://github.com/bentoml/BentoML) inspired by [langchain-gradio-template](https://github.com/hwchase17/langchain-gradio-template). This example demonstrates how to create a voice chatbot using the OpenAI API, Transformers speech models, Gradio, and BentoML. The chatbot takes input from a microphone, which is then converted into text using a speech recognition model. 
+voice2text is a  [LangChain](https://github.com/hwchase17/langchain) deployment example using  [BentoML](https://github.com/bentoml/BentoML) inspired by [langchain-gradio-template](https://github.com/hwchase17/langchain-gradio-template). This example demonstrates how to create a voice chatbot using the OpenAI API, Transformers speech models, Gradio, and BentoML. The chatbot takes input from a microphone, which is then converted into text using a speech recognition model. 
 >>>>>>> b347c02ac7045cc07090c82f8aef7d1da6a6c3be
 
 The chatbot responds to the user's input with text, which can be played back to the user using a text-to-speech model.
