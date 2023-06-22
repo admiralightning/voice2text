@@ -1,11 +1,10 @@
-# 🍱🔗 BentoChain - LangChain Deployment on BentoML 
+#  voice2text - LangChain Deployment on BentoML 
 
-Reference: Medium [post](https://medium.com/@ahmedbesbes/deploy-a-voice-based-chatbot-with-bentoml-langchain-and-gradio-7f25af3e45df)
 
 ----
 
 
-BentoChain is a 🦜️🔗 [LangChain](https://github.com/hwchase17/langchain) deployment example using 🍱 [BentoML](https://github.com/bentoml/BentoML) inspired by [langchain-gradio-template](https://github.com/hwchase17/langchain-gradio-template). This example demonstrates how to create a voice chatbot using the OpenAI API, Transformers speech models, Gradio, and BentoML. The chatbot takes input from a microphone, which is then converted into text using a speech recognition model. 
+Bvoice2text is a 🦜 [LangChain](https://github.com/hwchase17/langchain) deployment example using 🍱 [BentoML](https://github.com/bentoml/BentoML) inspired by [langchain-gradio-template](https://github.com/hwchase17/langchain-gradio-template). This example demonstrates how to create a voice chatbot using the OpenAI API, Transformers speech models, Gradio, and BentoML. The chatbot takes input from a microphone, which is then converted into text using a speech recognition model. 
 
 The chatbot responds to the user's input with text, which can be played back to the user using a text-to-speech model.
 
@@ -15,11 +14,11 @@ https://user-images.githubusercontent.com/6267065/235378103-54dd7c5b-16d1-4be7-b
 
 ## Why deploy LangChain applications with BentoML?
 
-🐳 Containerizes LangChain applications as standard OCI images.
+ Containerizes LangChain applications as standard OCI images.
 
-🎱 Generates OpenAPI and gRPC endpoints automatically.
+ Generates OpenAPI and gRPC endpoints automatically.
 
-☁️ Deploys models as microservices running on the most optimal hardware and scaling independently.
+ Deploys models as microservices running on the most optimal hardware and scaling independently.
 
 ## Instructions
 
